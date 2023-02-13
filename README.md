@@ -1,4 +1,3 @@
 # HEY!
 
-I'm Luca, I like to code
-
+I'm Luca, I like to code.
