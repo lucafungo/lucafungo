@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data engineer</h3>
 
 
-- 🔭 I’m currently working on [What the Guardian!?](https://github.com/lucafungo/What-the-Guardian-project)
+- 🔭 I’m currently working on [WTG-project](https://github.com/lucafungo/WTG-project)
 
 - 🌱 I’m currently learning **everything I can to be a great Data Engineer!**
 
