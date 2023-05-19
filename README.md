@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [WTG-project](https://github.com/lucafungo/WTG-project)
 
-- 🌱 I’m currently learning **everything I can to be a great Data Engineer!**
+- 🌱 I’m currently studying for **AWS Cloud Practitioner Certification**
 
 - 👯 I’m looking to collaborate on [Parolo](https://github.com/lucafungo/parolo)
 
