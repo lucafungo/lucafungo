@@ -2,7 +2,7 @@
 <h3 align="center">A passionate (and certified) data engineer</h3>
 
 
-- 🔭 I’m currently working on [WTG-project](https://github.com/lucafungo/WTG-project)
+- 🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
 
 - 🌱 I’m currently studying **[Scala](https://docs.scala-lang.org/)**
 
