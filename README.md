@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate data engineer</h3>
+<h3 align="center">A passionate (and certified) data engineer</h3>
 
 
 - 🔭 I’m currently working on [WTG-project](https://github.com/lucafungo/WTG-project)
