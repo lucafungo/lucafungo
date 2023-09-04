@@ -20,5 +20,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucafungo&show_icons=true&locale=en" alt="lucafungo" /></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="934b389f-9eb4-48d1-8c34-5b7096df01c4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
