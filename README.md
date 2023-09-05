@@ -2,11 +2,11 @@
 <h3 align="center">A passionate (and certified) data engineer</h3>
 
 
-- 🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
-
-- 🌱 I’m currently studying **[Scala](https://docs.scala-lang.org/)**
+- 💻 I’m a Data Engineer at **[Xander Talent](https://www.xandertalent.com/)**
 
 - 👯 I’m looking to collaborate on [Parolo](https://github.com/lucafungo/parolo)
+
+- - 🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
 
 - 💬 Ask me about **Napoli, good food and 'dolce fare niente'**
 
