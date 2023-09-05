@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on [Parolo](https://github.com/lucafungo/parolo)
 
-- - 🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
+-  🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
 
-- 💬 Ask me about **Napoli, good food and 'dolce fare niente'**
 
-- 📫 How to reach me **luca.alfieri@xandertalent.com**
+
+- 📫 How to reach me **luca.alfieri@xandertalent.com** or **alfieriluca91@gmail.com**
 
 </p>
 <br><br>
