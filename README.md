@@ -15,7 +15,10 @@
 </p>
 <br><br>
 <h3 align="left">📝 Badges and certifications:</h3>
+
 <p align="center"> <a href="https://www.credly.com/badges/934b389f-9eb4-48d1-8c34-5b7096df01c4/public_url"><a href="https://www.credly.com/badges/934b389f-9eb4-48d1-8c34-5b7096df01c4/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/080d855d-b783-4db5-a417-0f2621849b49/linkedin_thumb_image.png" alt="Quantexa" width="550" height="300"/> </a></p>
+
+<p align="center"> <a href="https://achieve.snowflake.com/8d434143-5e80-493d-bed2-b7b959b1f36d#gs.15tzzz"><a href="https://achieve.snowflake.com/8d434143-5e80-493d-bed2-b7b959b1f36d#gs.15tzzz" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/sync/D4D27AQHpLVQgO1qb2Q/articleshare-shrink_1280_800/0/1701704018938?e=1702310400&v=beta&t=N-ew5at9o0skZtlvNUKlwmZ5iybgZP6B99Qyjr4jM1w" alt="Snowflake1" width="550" height="300"/> </a></p>
   
 <p align="center"> <a href="https://www.credly.com/badges/f02b4a1f-c4ef-4601-a383-99b927e0a597/linked_in_profile"><a href="https://www.credly.com/badges/f02b4a1f-c4ef-4601-a383-99b927e0a597/linked_in_profile" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Quantexa" width="300" height="300"/> </a></p>
 <br><br>
