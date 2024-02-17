@@ -2,7 +2,7 @@
 <h3 align="center">A passionate (and certified) data engineer</h3>
 
 
-- 💻 I’m a Data Engineer at **[Xander Talent](https://www.xandertalent.com/)**
+- 💻 I’m a Data Engineer
 
 - 👯 I’m looking to collaborate on [Parolo](https://github.com/lucafungo/parolo)
 
@@ -10,7 +10,7 @@
 
 
 
-- 📫 How to reach me **luca.alfieri@xandertalent.com** or **alfieriluca91@gmail.com**
+- 📫 How to reach me **alfieriluca91@gmail.com**
 
 </p>
 <br><br>
