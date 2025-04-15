@@ -4,8 +4,7 @@
 - 📫 How to reach me **alfieriluca91@gmail.com**
 
 </p>
-<br><br>
-<h3 align="left">📝 Badges and certifications:</h3>
+
 
 <h3 align="left">📍Languages and Tools:</h3>
 <br>
