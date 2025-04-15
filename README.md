@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate (and certified) data engineer</h3>
-
-
-- 💻 I’m a Data Engineer
-
-- 👯 I’m looking to collaborate on [Parolo](https://github.com/lucafungo/parolo)
-
--  🔭 I’m currently working on [building a videogame](https://www.gbstudio.dev/)
-
 
 
 - 📫 How to reach me **alfieriluca91@gmail.com**
